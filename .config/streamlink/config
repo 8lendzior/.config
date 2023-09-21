@@ -1,0 +1,6 @@
+player=mpv
+hls-live-edge=1
+stream-segment-threads=10
+stream-timeout=20
+twitch-disable-ads
+twitch-low-latency
